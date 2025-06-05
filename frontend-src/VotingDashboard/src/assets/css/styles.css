@@ -1,0 +1,12 @@
+:root {
+    --main-purple: #302e6d;
+    --main-red: #a04646;
+}
+
+.text-main-purple {
+    color: var(--main-purple);
+}
+
+.bg-main-purple {
+    background-color: var(--main-purple);
+}

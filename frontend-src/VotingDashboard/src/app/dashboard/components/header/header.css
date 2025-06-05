@@ -1,0 +1,9 @@
+.header-header {
+	background: linear-gradient(to right, var(--main-purple), var(--main-red));
+    min-height: 128px;
+    width: 100%;
+}
+
+.header-header img {
+    height: 32px;
+}
